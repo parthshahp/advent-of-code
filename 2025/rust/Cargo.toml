@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "day-*",
+    "day-01",
+]
+exclude = ["scripts"]
+default-members = ["day-*"]
+
+[workspace.dependencies]

@@ -1,0 +1,13 @@
+[package]
+name = "day-01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+
+# [[bench]]
+# name = "day-01-bench"
+# path = "benches/benchmarks.rs"
+# harness = false
