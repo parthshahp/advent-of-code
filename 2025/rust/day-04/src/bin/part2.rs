@@ -1,5 +1,5 @@
 use anyhow::Result;
-use {{crate_name}}::part2::process;
+use day_04::part2::process;
 
 fn main() -> Result<()> {
 
